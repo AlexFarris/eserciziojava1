@@ -37,7 +37,7 @@ public class mainEs{
          System.out.println(c.calcDataStud());
         System.out.println(eeee.intervalloNascitaStud(d1, d2));  */
         System.out.println(eeee.toStringClasse());
-        System.out.println(eeee.modStud(d,"luca", "rossi"));
+        System.out.println(eeee.modStud(d,"giovanni", "verdi"));
         System.out.println(eeee.toStringClasse());
 
     }
